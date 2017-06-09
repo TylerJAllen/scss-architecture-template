@@ -1,31 +1,31 @@
-@import 'sass/vendors/bourbon/bourbon';
-@import 'sass/vendors/neat/neat';
+@import 'scss/vendors/bourbon/bourbon';
+@import 'scss/vendors/neat/neat';
 
-@import 'sass/abstracts/variables';
-@import 'sass/abstracts/functions';
-@import 'sass/abstracts/mixins';
-@import 'sass/abstracts/placeholders';
+@import 'scss/abstracts/variables';
+@import 'scss/abstracts/functions';
+@import 'scss/abstracts/mixins';
+@import 'scss/abstracts/placeholders';
 
-@import 'sass/vendors/bootstrap';
-@import 'sass/vendors/jquery-ui';
+@import 'scss/vendors/bootstrap';
+@import 'scss/vendors/jquery-ui';
 
-@import 'sass/base/reset';
-@import 'sass/base/typography';
+@import 'scss/base/reset';
+@import 'scss/base/typography';
 
-@import 'sass/layout/navigation';
-@import 'sass/layout/grid';
-@import 'sass/layout/header';
-@import 'sass/layout/footer';
-@import 'sass/layout/sidebar';
-@import 'sass/layout/forms';
+@import 'scss/layout/navigation';
+@import 'scss/layout/grid';
+@import 'scss/layout/header';
+@import 'scss/layout/footer';
+@import 'scss/layout/sidebar';
+@import 'scss/layout/forms';
 
-@import 'sass/components/buttons';
-@import 'sass/components/carousel';
-@import 'sass/components/cover';
-@import 'sass/components/dropdown';
+@import 'scss/components/buttons';
+@import 'scss/components/carousel';
+@import 'scss/components/cover';
+@import 'scss/components/dropdown';
 
-@import 'sass/pages/home';
-@import 'sass/pages/contact';
+@import 'scss/pages/home';
+@import 'scss/pages/contact';
 
-@import 'sass/themes/theme';
-@import 'sass/themes/admin';
+@import 'scss/themes/theme';
+@import 'scss/themes/admin';
